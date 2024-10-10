@@ -1,1 +1,1 @@
-# Cardiac-Risk-Predictor
+# CardiacRiskPredictor
